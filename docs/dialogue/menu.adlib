@@ -8,7 +8,7 @@ jettisoned into the
 (j) depths of space (/j)
 # depths of (j) space (/j)
 
-[level_1]
+[level_2]
 #Power starts to fail
 ## on the poor (j) orphan-bot (/j)
 #on the poor orphan-bot
@@ -19,7 +19,7 @@ robo-orphanages of jupiter
 our poor robot is alone
 
 
-[level_2]
+[level_4]
 Crunda is a trail through
 the asteroid belt
 (wait 0.5s)
@@ -35,3 +35,18 @@ minefield setup by miners
 #exhaust fumes of truckers
 #slamming into wildlife
 #
+
+[level_6]
+aaaa
+
+[outfit|hat|WizardHat]
+Test hello hello
+
+[outfit|skin|Orphan]
+Little orphan boy boy
+
+[outfit|skin|Spaceship]
+Spaceship thing thing
+
+[outfit|skin|Blob]
+Blob
